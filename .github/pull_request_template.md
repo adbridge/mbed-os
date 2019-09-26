@@ -5,7 +5,10 @@
     Add here detailed changes summary, testing results, dependencies
     Good example: https://os.mbed.com/docs/mbed-os/latest/contributing/workflow.html (Pull request template)
 -->
+##### Summary of change (*What the change is for and why*)
 
+
+##### Documentation (*Details of any document updates required*)
 
 ----------------------------------------------------------------------------------------------------------------
 ### Pull request type (*required*)
@@ -25,12 +28,12 @@
 ### Test results (*required*)
 
 <!--
-    Optional
+    Required
     For example, add test results for new target
 -->
-    [] No Tests required for this change
-    [] These PR changes will be covered by existing tests and CI
-    [] Tests supplied below
+    [] No Tests required for this change (*E.g docs only update*)
+    [] Covered by existing mbed-os tests (*Greentea or Unittest*)
+    [] Tests / results supplied as part of this PR
     
     
 ----------------------------------------------------------------------------------------------------------------
