@@ -6,26 +6,33 @@
    template may cause the bot to automatically correct this header or may result in a 
    warning message, requesting updates.
 
-   Please ensure all issue details are within the Description section and no changes 
-   are made to the template format (as detailed below). Only bugs should be raised
-   here as issues. Questions or enhancements should instead be raised on our forums:
+   Please ensure all sections of the template below are filled in and no changes 
+   are made to the template format. Only bugs should be raised here as issues. 
+   Questions or enhancements should instead be raised on our forums:
    https://forums.mbed.com/ .
 
    *************************************************************************************
 
 -->
 
-### Description
+### Description of defect
 
 <!--
-    Required
     Add detailed description of what you are reporting.
     Good example: https://os.mbed.com/docs/mbed-os/latest/contributing/workflow.html
-    Things to consider sharing:
-    - What target does this relate to?
-    - What toolchain (name + version) are you using?
-    - What tools (name + version - is it mbed-cli, online compiler or IDE) are you using?
-    - What is the SHA of Mbed OS (git log -n1 --oneline)?
-    - Steps to reproduce. (Did you publish code or a test case that exhibits the problem?)
 -->
+
+
+#### Target(s) affected by this defect ?
+
+
+#### Toolchain(s) (name and version) displaying this defect ?
+
+
+#### What version of Mbed-os are you using (tag or sha) ?
+
+
+#### How is this defect reproduced ? 
+
+
 
